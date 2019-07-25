@@ -1,37 +1,18 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: /ɡɪərɪŋə/
+tags: [about, pearl, me, vanlife]
+date: 2019-06-02
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+I'm Josh [Gieringer](https://forvo.com/word/gieringer/) (two hard Gs)
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Real quick:
+* Born & raised in Little Rock, AR.
+* I escaped to Nashville, TN in 2010 to become a studio drummer but traded it on day one to earn a B.S. in Computer Science in 2014 from Belmont University.
+* I'm fond of NLP and I science data at [Digital Reasoning](https://digitalreasoning.com)
+* I enjoy traveling, biking, kicking soccer balls, the Oxford comma, and running trails.
 
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+## Speaking of travel:
+Traveling for work is fun, but traveling while working is way more fun(ner).
+Starting February 14, 2019, I bought [The Van Pearl](https://www.instagram.com/the.van.pearl/) and drove her to New Hampshire to be converted into my future home by Nick Nelsen of [Exploration Van Works](https://www.instagram.com/exploration.van.works/).
