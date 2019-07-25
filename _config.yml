@@ -1,7 +1,7 @@
 # Site
 title:              Josh Gieringer
-bio:                "Data Scientist running EDA on van life"
-description:        "Here's to being present & breathing in the unknown"
+bio:                "Data scientist running EDA on van life"
+description:        "Here's to being present & breathing in the unknown."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.gif'
@@ -40,7 +40,7 @@ disqus_shortname:   jgieringer
 #email:
 twitter:            jgieringer
 #facebook:           username
-github-url:         https://github.com/jgieringer
+github-url:         jgieringer
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
