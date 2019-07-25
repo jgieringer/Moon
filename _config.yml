@@ -1,7 +1,7 @@
 # Site
 title:              Josh Gieringer
-bio:                'coast_2_coast Data Science'
-description:        "Traveling and sciencing the data.. with maths"
+bio:                "Data Scientist running EDA on van life"
+# description:        "Show me everything"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.gif'
